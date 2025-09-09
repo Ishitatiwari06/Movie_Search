@@ -13,7 +13,6 @@ Users can search for movies by title and see details including poster, genre, pl
 
 ⚠️ Handles invalid or missing movie names gracefully
 
-🌐 Deployable on cloud platforms like Render, Railway, PythonAnywhere
 
 ## 🛠️ Tech Stack
 
@@ -56,30 +55,6 @@ uvicorn movieapp:app --reload
 
 Open your browser at 👉 http://127.0.0.1:8000
 
-## 🌐 Deployment
-
-You can deploy this app online using:
-
-Render
-
-Railway
-
-PythonAnywhere
-
-Render example:
-
-Start command:
-
-uvicorn movieapp:app --host 0.0.0.0 --port 10000
-
-
-App becomes accessible with a public link, e.g., https://your-app.onrender.com.
-
-📸 Screenshots
-🔍 Search Page
-
-🎥 Result Page
-
 ## ✨ Future Improvements
 
 Add Bootstrap or Tailwind CSS for modern UI
@@ -87,8 +62,6 @@ Add Bootstrap or Tailwind CSS for modern UI
 Show related movies / multiple results
 
 Add user authentication (login/signup)
-
-Deploy with Docker + Cloud Platforms for 24/7 availability
 
 ## 🤝 Contributing
 
