@@ -1,9 +1,9 @@
-🎬 Movie Search App
+#🎬 Movie Search App
 
 A fast, interactive Movie Search Web Application built with FastAPI, Jinja2 templates, and the OMDb API.
 Users can search for movies by title and see details including poster, genre, plot, and IMDb rating.
 
-🚀 Features
+##🚀 Features
 
 🔍 Search movies by title
 
@@ -15,7 +15,7 @@ Users can search for movies by title and see details including poster, genre, pl
 
 🌐 Deployable on cloud platforms like Render, Railway, PythonAnywhere
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Backend: FastAPI
 
@@ -25,7 +25,7 @@ API: OMDb API
 
 Server: Uvicorn
 
-📂 Project Structure
+##📂 Project Structure
 movie-search-app/
  ├── movieapp.py          # Main FastAPI application
  ├── requirements.txt     # Project dependencies
@@ -33,7 +33,7 @@ movie-search-app/
       ├── index.html      # Search page
       └── result.html     # Result page
 
-⚡ Getting Started
+##⚡ Getting Started
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/movie-search-app.git
 cd movie-search-app
@@ -56,7 +56,7 @@ uvicorn movieapp:app --reload
 
 Open your browser at 👉 http://127.0.0.1:8000
 
-🌐 Deployment
+##🌐 Deployment
 
 You can deploy this app online using:
 
@@ -80,7 +80,7 @@ App becomes accessible with a public link, e.g., https://your-app.onrender.com.
 
 🎥 Result Page
 
-✨ Future Improvements
+##✨ Future Improvements
 
 Add Bootstrap or Tailwind CSS for modern UI
 
@@ -90,7 +90,7 @@ Add user authentication (login/signup)
 
 Deploy with Docker + Cloud Platforms for 24/7 availability
 
-🤝 Contributing
+##🤝 Contributing
 
 Contributions are welcome!
 
@@ -102,7 +102,7 @@ Commit your changes
 
 Open a Pull Request 🚀
 
-📜 License
+##📜 License
 
 This project is licensed under the MIT License.
 
