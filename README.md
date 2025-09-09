@@ -34,7 +34,7 @@ movie-search-app/
 
 ## ⚡ Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/movie-search-app.git
+git clone https://github.com/Ishitatiwari06/Movie_Search
 cd movie-search-app
 
 2️⃣ Install Dependencies
